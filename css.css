@@ -1,0 +1,13 @@
+h1 {color:red;}
+
+p {
+	font-size:22px;
+}
+
+body {background: #36f;
+	margin: 50px 300px 50px 300px;
+	font-family:Arial;
+}
+
+a:link {text-decoration:none}
+a:visited {text-decoration:none}
